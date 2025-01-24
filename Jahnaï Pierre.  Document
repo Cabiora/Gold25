@@ -6,7 +6,7 @@ body {
     margin: 0;
     padding: 0;
 }
-
+.
 /* En-tête */
 header {
     background-color: #4CAF50;
