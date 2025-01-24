@@ -10,7 +10,7 @@ body {
 /* En-tête */
 header {
     background-color: #4CAF50;
-    color: white;
+    color: red;
     padding: 1rem 0;
     text-align: center;
     font-size: 1.5rem;
