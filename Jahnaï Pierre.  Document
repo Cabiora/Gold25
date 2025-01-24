@@ -22,7 +22,7 @@ nav a {
     color: white;
     margin: 0 1rem;
 }
-
+Le poulet c'est trop bon
 nav a:hover {
     text-decoration: underline;
 }
